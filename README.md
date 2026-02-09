@@ -1,2 +1,4 @@
-# Bioinf_proj
-Bioinformatics and Network Medicine project
+# Bioinformatics project
+Bioinformatics and Network Medicine project for Data Science.
+It contians the report and the code used.
+
